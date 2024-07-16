@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://console.log(resultats)",
+            "request": "launch",
+            "url": "http://console.log(resultats)"
+        }
+    ]
+}
